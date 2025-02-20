@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{	
+	width: 100%;
+	height: 85vh;
+	background-color: #202124;
+}
+.content{
+	text-align: center;
+	height: relative;
+}
+.main img{
+	width: 500px;
+	height: 500px;
+}
